@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Moritz
-- 👀 I’m interested in ML applicat
+- 👀 I’m interested in ML applications in bimedical imaging, natural language processing and many more
 - 🌱 I’m currently learning pytorch
 - 💞️ I’m looking to collaborate on biomedical image synthesis
 
