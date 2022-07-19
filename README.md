@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Moritz
-- 👀 I’m interested in ML applications in biomedical imaging, natural language processing and many more
-- 🌱 I’m currently learning pytorch
-- 💞️ I’m looking to collaborate on biomedical image synthesis
+- 👋 Hi, I’m Moritz, Senior ML Engineer at [acodis.io](Acodis)
+- 👀 I’m interested in computer vision, biomedical imaging, generative models, natural language processing and Intelligent Document Processing and more!
+- 🌱 Currently expanding my horizon on MLOps tools.
 
 <!---
 MoPl90/MoPl90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
