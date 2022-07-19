@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Moritz, Senior ML Engineer at [Acodis](acodis.io)
+- 👋 Hi, I’m Moritz, Senior ML Engineer at [Acodis](www.acodis.io)
 - 👀 I’m interested in computer vision, biomedical imaging, generative models, natural language processing and Intelligent Document Processing and more!
 - 🌱 Currently expanding my horizon on MLOps tools.
 
